@@ -1,0 +1,211 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="wzSir1QEtI2I5pZqRt6J">
+    <mxGraphModel dx="2852" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-1" target="LioJUbXbQ5yORXNpgTwL-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1145" y="170" />
+              <mxPoint x="1006" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-1" target="LioJUbXbQ5yORXNpgTwL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-1" target="LioJUbXbQ5yORXNpgTwL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-1" target="LioJUbXbQ5yORXNpgTwL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-1" target="LioJUbXbQ5yORXNpgTwL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-1" target="LioJUbXbQ5yORXNpgTwL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-1" target="LioJUbXbQ5yORXNpgTwL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-1" target="LioJUbXbQ5yORXNpgTwL-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-1" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Online Training Registration and Management System for Samar State University&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" width="790" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-2" target="LioJUbXbQ5yORXNpgTwL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-2" value="&lt;b&gt;1.1 &lt;/b&gt;Online Student Registration Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-3" target="LioJUbXbQ5yORXNpgTwL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-3" value="&lt;b&gt;1.1.1 &lt;/b&gt;Develop online registration&amp;nbsp;&lt;div&gt;forms&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="350" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-4" target="LioJUbXbQ5yORXNpgTwL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-4" value="&lt;b&gt;1.1.2 &lt;/b&gt;Connect registration to&amp;nbsp;&lt;div&gt;database&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="460" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-5" value="&lt;b&gt;1.1.3&lt;/b&gt; Validate inputs and store&amp;nbsp;&lt;div&gt;records&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-9" target="LioJUbXbQ5yORXNpgTwL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-9" value="&lt;b&gt;1.2&lt;/b&gt; Attendance Tracking Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-10" target="LioJUbXbQ5yORXNpgTwL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-10" value="&lt;b&gt;1.2.1 &lt;/b&gt;Design attendance tracking interface" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="350" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-11" target="LioJUbXbQ5yORXNpgTwL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-11" value="&lt;b&gt;1.2.2&lt;/b&gt; Implement attendance record storage" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="460" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-12" value="&lt;b&gt;1.2.3&lt;/b&gt; Generate attendance reports" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-16" target="LioJUbXbQ5yORXNpgTwL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-16" value="&lt;b&gt;1.3&lt;/b&gt; Digital Certification Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-17" target="LioJUbXbQ5yORXNpgTwL-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-17" value="&lt;b&gt;1.4 &lt;/b&gt;Administrator Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-18" target="LioJUbXbQ5yORXNpgTwL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-18" value="&lt;b&gt;1.3.1&lt;/b&gt; Design digital certificate&amp;nbsp;&lt;div&gt;template&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="350" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-19" target="LioJUbXbQ5yORXNpgTwL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-19" value="&lt;b&gt;1.3.2&lt;/b&gt; Implement automatic certificate generation" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="460" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-20" value="&lt;b&gt;1.3.3 &lt;/b&gt;Enable certificate verification" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-24" target="LioJUbXbQ5yORXNpgTwL-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-24" value="&lt;b&gt;1.5&lt;/b&gt; Secure Cloud Hosting &amp;amp;&amp;nbsp;&lt;div&gt;Database&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-25" target="LioJUbXbQ5yORXNpgTwL-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-25" value="&lt;b&gt;1.6&lt;/b&gt; Pilot Deployment &amp;amp; User&amp;nbsp;&lt;div&gt;Feedback&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-26" target="LioJUbXbQ5yORXNpgTwL-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-26" value="&lt;b&gt;1.7&lt;/b&gt; Documentation &amp;amp; User&amp;nbsp;&lt;div&gt;Training&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-27" target="LioJUbXbQ5yORXNpgTwL-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-27" value="&lt;b&gt;1.8&lt;/b&gt; SSL &amp;amp; Security Measures" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-40" target="LioJUbXbQ5yORXNpgTwL-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-40" value="&lt;b&gt;1.4.1&lt;/b&gt; Develop training program management interface" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="350" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-41" target="LioJUbXbQ5yORXNpgTwL-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-41" value="&lt;b&gt;1.4.2&lt;/b&gt; Create student registration monitoring tools" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="460" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-42" value="&lt;b&gt;1.4.3&lt;/b&gt; Provide report generation functions" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-46" target="LioJUbXbQ5yORXNpgTwL-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-46" value="&lt;b&gt;1.5.1&lt;/b&gt; Procure cloud hosting&amp;nbsp;&lt;div&gt;services&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="350" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-47" target="LioJUbXbQ5yORXNpgTwL-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-47" value="&lt;b&gt;1.5.2&lt;/b&gt; Configure secure&amp;nbsp;&lt;div&gt;database&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="460" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-48" value="&lt;b&gt;1.5.3&lt;/b&gt; Implement backup and recovery measures" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-49" target="LioJUbXbQ5yORXNpgTwL-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-49" value="&lt;b&gt;1.6.1&lt;/b&gt; Deploy test version for&amp;nbsp;&lt;div&gt;pilot users&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="350" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-53" target="LioJUbXbQ5yORXNpgTwL-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-53" value="&lt;b&gt;1.6.2&lt;/b&gt; Collect user feedback" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="460" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-54" value="&lt;b&gt;1.6.3&lt;/b&gt; Adjust system based on feedback" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-58" target="LioJUbXbQ5yORXNpgTwL-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-58" value="&lt;b&gt;1.7.1&lt;/b&gt; Prepare user manuals and technical documentation" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="350" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-59" target="LioJUbXbQ5yORXNpgTwL-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-59" value="&lt;b&gt;1.7.2 &lt;/b&gt;Conduct administrator training sessions" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="460" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-60" value="&lt;b&gt;1.7.3&lt;/b&gt; Provide end-user support guidelines" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-61" target="LioJUbXbQ5yORXNpgTwL-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-61" value="&lt;b&gt;1.8.1&lt;/b&gt; Acquire SSL certificates" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="350" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LioJUbXbQ5yORXNpgTwL-62" target="LioJUbXbQ5yORXNpgTwL-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-62" value="&lt;b&gt;1.8.2&lt;/b&gt; Implement security measures against cyber threats" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="460" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LioJUbXbQ5yORXNpgTwL-63" value="&lt;b&gt;1.8.3 &lt;/b&gt;Perform vulnerability testing" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
